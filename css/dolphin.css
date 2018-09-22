@@ -21,8 +21,9 @@ html {
 /* Write your solution here */
 @media (max-width: 1090px) {
   #dolphin {
-    position: absolute;
+    transform: rotate(0.5turn);
     top: 100px;
     right: 0px;
   }
 }
+@media (min-width: )
