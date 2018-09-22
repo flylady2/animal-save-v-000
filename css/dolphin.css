@@ -26,4 +26,10 @@ html {
     right: 0px;
   }
 }
-@media (min-width: )
+@media (min-width: 642px) {
+  #dolphin {
+    transform: rotate(-.025turn);
+    top: 400px;
+    right: 0px;
+  }
+}
