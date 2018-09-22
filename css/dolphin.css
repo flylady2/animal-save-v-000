@@ -22,7 +22,7 @@ html {
 @media (max-width: 1090px) {
   #dolphin {
     position: absolute;
-    top: 300px;
+    top: 100px;
     right: 0px;
   }
 }
